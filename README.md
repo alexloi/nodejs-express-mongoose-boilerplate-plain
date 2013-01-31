@@ -1,4 +1,10 @@
-nodejs-express-mongoose-boilerplate-plain
-=========================================
+Nodejs / Express / Mongoose boilerplate
 
-Plain boilerplate of nodejs/express/mongoose. Implemented MVC / based on the example by madhums. 
+- Barebones boilerplate
+- MVC 
+- Multiple environments config
+- Middleware for view locals
+
+Based on the boilerplate provided by madhums. View here:
+https://github.com/madhums/nodejs-express-mongoose-demo
+

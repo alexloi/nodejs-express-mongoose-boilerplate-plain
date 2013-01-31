@@ -1,0 +1,10 @@
+extends ../layouts/default
+
+block content
+  h1 This is a demo
+  p Checkout the list!
+  each demo in demos
+      .demo
+        h2=demo.title
+        small=demo.createdAt
+        h5=demo.questions
